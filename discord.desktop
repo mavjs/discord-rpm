@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Discord
+GenericName=Discord
+Comment=Free voice and text chat for gamers
+Icon=discord
+Exec=/opt/discord/DiscordCanary %U
+Terminal=false
+Type=Application
+Categories=Network;InstantMessaging;Application
+StartupNotify=true
